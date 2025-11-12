@@ -21,7 +21,7 @@ Built for managing products through a clean interface and RESTful API — all ru
 
 | Layer | Technology |
 |-------|-------------|
-| **Frontend** | React, Chakra UI, Axios, Vite (or CRA if used) |
+| **Frontend** | React, Chakra UI, Axios, Vite  |
 | **Backend** | Node.js, Express |
 | **Database** | MongoDB Atlas |
 | **Styling** | Chakra UI Components |
